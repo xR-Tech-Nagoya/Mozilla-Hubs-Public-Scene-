@@ -11,7 +11,7 @@ https://hub.link/9Kmdwk8
 
 ![demo](https://github.com/xR-Tech-Nagoya/Mozilla-Hubs-Public-Scene/blob/main/ezgif-1-830c725640fb.gif?raw=true)
 
-＜変更履歴＞
+＜History＞
 
 2021/02/03
 
