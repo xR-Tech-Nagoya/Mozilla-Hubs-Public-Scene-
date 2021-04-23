@@ -14,6 +14,6 @@ https://hub.link/HBG7DAF
 ＜Scene2　"sauna"＞
 https://hub.link/9Kmdwk8
 
-![demo](https://github.com/xR-Tech-Nagoya/Mozilla-Hubs-Public-Scene/blob/main/ezgif-1-830c725640fb.gif?raw=true)
+![demo](https://github.com/xR-Tech-Nagoya/Hubs-Public-Scene/blob/main/media/ezgif-1-830c725640fb.gif?raw=true)
 
 https://hideaki.warashibe.market/articles/hE6nj2wo7
