@@ -17,6 +17,6 @@ https://hub.link/9Kmdwk8
 
 ＜Scene3　"MUNCH V"＞
 https://hub.link/EcA585d
-![demo]()
+![demo](https://github.com/xR-Tech-Nagoya/Hubs-Public-Scene/blob/main/media/munch_v_media1.png?raw=true)
 
 https://hideaki.warashibe.market/articles/hE6nj2wo7
