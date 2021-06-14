@@ -18,5 +18,3 @@ https://hub.link/9Kmdwk8
 ＜Scene1　"Dev V"＞
 https://hub.link/HBG7DAF
 ![demo](https://github.com/xR-Tech-Nagoya/Hubs-Public-Scene/blob/main/media/ezgif-7-69aa40baf791.gif?raw=true)
-
-https://hideaki.warashibe.market/articles/hE6nj2wo7 
